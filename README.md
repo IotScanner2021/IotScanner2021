@@ -4,11 +4,14 @@
 
 * client side
   * Input IP
-  * Get the IP vulnerbilites 
+  * Get the scanner output 
 * server side
-  * determine devicetype
+  * devicetype check
+   * printer
+   * router
+   * camera
   * vulnerabilities leak 
-  * offer vulnerabilities solutions
+  * solutions
 
 ## determine devicetype
 methods
