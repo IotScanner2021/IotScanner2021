@@ -3,6 +3,15 @@
 ## IOT scanner
 
 * client side
+  * Input IP
+  * Get the IP vulnerbilites 
 * server side
-  * iot scanner
+  * determine devicetype
   * vulnerabilities leak 
+  * offer vulnerabilities solutions
+
+## determine devicetype
+methods
+* keywordMethod(recommended,fast more)
+* featureMethod
+
