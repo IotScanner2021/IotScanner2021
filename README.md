@@ -1,6 +1,4 @@
-# ccu_proj
-
-## IOT scanner
+# IOT scanner
 
 * client side
   * Input IP
@@ -13,7 +11,10 @@
   * vulnerabilities leak 
   * solutions
 
-## determine devicetype
+## client slide
+![image](https://github.com/IotScanner2021/IotScanner2021/blob/master/image/home.PNG)
+## server side
+### determine devicetype
 methods
 * keywordMethod (recommended,fast more)
 * featureMethod
