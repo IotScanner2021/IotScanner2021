@@ -15,6 +15,6 @@
 
 ## determine devicetype
 methods
-* keywordMethod(recommended,fast more)
+* keywordMethod (recommended,fast more)
 * featureMethod
 
